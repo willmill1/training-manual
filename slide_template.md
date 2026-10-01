@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+testing merge conflict on rmillner-modify-conflict branch
 
 IMAGE
 {: .center}
